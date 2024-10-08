@@ -717,4 +717,10 @@
 .icon-zoom-out:before {
     content: "\e9e6";
 }
+.icon-linkedin:before {
+    content: "\eac9";
+}
+.icon-linkedin2:before {
+    content: "\eaca";
+}
 
